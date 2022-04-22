@@ -53,7 +53,7 @@
         },
         "mouf":{
             "nodejs":{
-                "targetDir": "Home-Monitor-Laravel/nodejs"
+                "targetDir": "/usr/bin/nodejs/nodejs"
             }
         }
     },
