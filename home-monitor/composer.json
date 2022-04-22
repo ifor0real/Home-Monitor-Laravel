@@ -50,6 +50,11 @@
     "extra": {
         "laravel": {
             "dont-discover": []
+        },
+        "mouf":{
+            "nodejs":{
+                "targetDir": "Home-Monitor-Laravel/nodejs"
+            }
         }
     },
     "config": {
